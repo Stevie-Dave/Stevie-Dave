@@ -1,6 +1,6 @@
-Hi👋, I’m @Stevie-Dave
-I’m interested in Machine Learnig, App Development Programming in general.
-I’m currently learning UIUX, MongoDB and front and backend programming using Java and Kotlin.  I’m looking to collaborate on Applications, Websites and Database related projects and Arduino and Machine learning projects.
+Hi👋😊, I’m @Stevie-Dave.
+I’m interested in Machine Learning, App Development and Programming in general.
+I'm currently learning UIUX, MongoDB and front and backend programming using Java and Kotlin.  I’m looking to collaborate on Applications, Websites and Database related projects and Arduino and Machine learning projects.
 
 
 <!---
